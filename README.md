@@ -1,2 +1,2 @@
 # CFTIC610-01-Web
-Prácticas del curso CFTIC-Nanfor 610
+Primera práctica del curso CFTIC-Nanfor 610
